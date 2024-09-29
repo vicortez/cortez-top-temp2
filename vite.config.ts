@@ -8,5 +8,5 @@ export default defineConfig({
   //   emptyOutDir: true,
   //   outDir: "./docs",
   // },
-  base: "/",
+  base: "/cortez-top-temp2/",
 });
