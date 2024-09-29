@@ -4,8 +4,8 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  build: {
-    emptyOutDir: true,
-    outDir: "./docs",
-  },
+  // build: {
+  //   emptyOutDir: true,
+  //   outDir: "./docs",
+  // },
 });
